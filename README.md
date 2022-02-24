@@ -8,9 +8,7 @@ Repository for the notes of the R programming
 
 | Experiment No. | Problem Statement | Solution |
 | --- | --- | --- |
-| 1 | a. Installation and Configuration of R/Python Studio.
-b. Write a R/Python program to take input from the user (name and age) and display the
-values. Also, print the version of the R installation. |  |
+| 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display the values. Also, print the version of the R installation. |  |
 | 2 | Write a R/Python program to get the first 10 Fibonacci numbers |  |
 | 3 | Write a R/Python program to extract the first 10 English letters in lower case and the last 10 letters
 in upper case and extract letters between 22nd to 24th letters in upper case |  |
