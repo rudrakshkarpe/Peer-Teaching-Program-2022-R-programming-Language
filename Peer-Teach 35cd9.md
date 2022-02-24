@@ -31,4 +31,4 @@ each histogram.
 Create a boxplot for each feature in the dataset. All of the boxplots should be combined into a
 single plot. Compare distributions and identify outliers. |  |
 
-[basicR.pdf](src/fundamentals of R.pdf)
+[fundamentals of R.pdf](src/fundamentals of R.pdf)
