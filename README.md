@@ -2,8 +2,6 @@
 Repository for the notes of the R programming
 
 
-## Data Analysis using R
-
 ### List of Experiments
 
 [Solutions](https://www.notion.so/Solutions-3631b3e2c8dc4712bc953a43728f2f2d)
