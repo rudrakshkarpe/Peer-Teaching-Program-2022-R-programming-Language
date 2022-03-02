@@ -3,6 +3,8 @@
 
 ### List of Experiments
 
+- Looking forward to update the teaching plan 
+
 [Solutions](https://www.notion.so/Solutions-3631b3e2c8dc4712bc953a43728f2f2d)
 
 | Experiment No. | Problem Statement | Solution |
