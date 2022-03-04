@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="850" height="150" class="center">
 
-Hello Everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
+## Hello Everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
 
 | Experiment No. | Problem Statement |
 | --- | --- |
