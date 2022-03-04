@@ -1,6 +1,6 @@
 <div align="center">
 	
- # Welcome to the Reposiory! ✨
+ # Welcome to Reposiory for R ⌨️! ✨
 
 </div>
 
