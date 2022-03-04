@@ -2,10 +2,9 @@
 
 ## Hello everyone👋
 
-The div element has its own alignment attribute, align.
 
 <div align="center">
-
+	
  ### Welcome to the reposiory! ✨
 
 </div>
