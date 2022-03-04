@@ -2,7 +2,8 @@
 
 ## Hello everyone👋
 
-### Welcome to the reposiory! ✨
+<center>### Welcome to the reposiory! ✨</center>
+
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
 
 ### Happy Learnings :)
