@@ -1,7 +1,6 @@
 <div align="center">
 	
- # Welcome to the Reposiory! <img src="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="50" height="50">
-
+ # Welcome to the Reposiory! ✨
 
 </div>
 
