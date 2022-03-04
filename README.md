@@ -1,6 +1,6 @@
 <div align="center">
 	
- # Welcome to Reposiory for R ⌨️! ✨
+ # Welcome to Reposiory for R Programming ✨
 
 </div>
 
