@@ -1,5 +1,7 @@
 <img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="850" height="150" class="center">
 
+Hello Everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25" height="25">
+
 | Experiment No. | Problem Statement |
 | --- | --- |
 | 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display thevalues. Also, print the version of the R installation.|
