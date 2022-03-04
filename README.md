@@ -2,7 +2,13 @@
 
 ## Hello everyone👋
 
-<center>### Welcome to the reposiory! ✨</center>
+The div element has its own alignment attribute, align.
+
+<div align="center">
+
+ ### Welcome to the reposiory! ✨
+
+</div>
 
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
 
