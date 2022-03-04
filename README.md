@@ -6,7 +6,8 @@
 
 <img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="850" height="150" class="center">
 
-## Hello everyone👋
+## Hello everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
+
 
 
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
