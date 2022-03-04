@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="1000" height="1000">
+<img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="500" height="250">
 
 | Experiment No. | Problem Statement |
 | --- | --- |
