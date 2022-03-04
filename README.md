@@ -1,6 +1,6 @@
 <div align="center">
 	
- # Welcome to the reposiory! ✨
+ # Welcome to the Reposiory! ✨
 
 </div>
 
