@@ -1,4 +1,4 @@
-![Big-Data.gif](src\Big-Data)
+<img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="100" height="100">
 
 | Experiment No. | Problem Statement |
 | --- | --- |
