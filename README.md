@@ -17,7 +17,7 @@
 
 | Experiment Name | Problem Satement | Solution | Status of Completion |
 | :-:| ------ | ------ | :-: |
-| 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display thevalues. Also, print the versioof the R installation.| [Solution](https://github.com/rudrakshkarpe/Peer-Teaching-Program-2022-R-programming-Language)| ✅ |
+| 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display thevalues. Also, print the versioof the R installation.| [Solution](https://www.linkedin.com/in/rudrakshkarpe)| ✅ |
 | 3 | Write a R/Python program to extract the first 10 English letters in lower case and the last 10 letters in upper case and extract letters between 22nd to 24th letters in upper case| [Solution]() | ✅ |
 | 4 | Write a R/Python program to create a list of random numbers in normal distribution and count occurrences of each value.| [Solution]() |  |
 | 5 | Write a R/Python program to create a 5 x 4 matrix, 3 x 3 matrix with labels and fill the matrix by rows and 2 × 2 matrices with labels and fill the matrix by columns| [Solution]() |  |
