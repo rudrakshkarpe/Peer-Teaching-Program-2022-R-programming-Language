@@ -1,0 +1,251 @@
+---
+title: "R Notebook"
+output: html_notebook
+Aurthor: rudrakshkarpe
+---
+
+### This is Designed by rudrakshkarpe
+*ctrl + shift+ enter* --> to run the entire code  
+*ctrl + shift+ c*  --> to comment in the r programming language
+*Ctrl+Alt+I* --> TO insert new chunk
+*ctrl + shift + k* --> to see the HTML preview 
+
+### Types of Variables in R programming Langauge
+```{r}
+# interger
+
+x <- 2 
+
+# to make it interger keep it like 2L
+
+typeof(x)
+
+# double
+
+y <- 2.5  # decimal point 
+typeof(y)
+
+
+# double mode is default mode in
+# R programming langauge
+
+# complex
+
+z <- 3 +2i
+  
+typeof(z)
+
+# character
+
+a <- "Rudraksh"
+
+typeof(a)
+
+# logical 
+
+q1 <- T
+
+typeof(q1)
+```
+
+
+```{r}
+A <- 10
+B <- 5
+
+c <- A+B
+
+# printing out the variable
+
+c
+
+variable1 <- 2.5
+variable2 <- 4
+
+sum <- variable1 / variable2
+sum
+
+# That is how you implement the code using the new programs
+
+answer <- sqrt(variable2)
+answer
+```
+
+
+### operations on the character operator 
+
+```{r}
+greetings <- "Hello"
+
+name <- "Rudraksh"
+
+Message <- paste(greetings, name)
+Message
+```
+
+### Logical Variables and operators
+
+
+```{r}
+# TRUE  or T
+
+# FALSE or F
+
+
+4 < 5
+7 == 7
+7 != 0
+7 <= 0
+8 >= 9
+
+# &
+# isTRUE(x)
+
+result1 <- 4 < 5
+result1  
+
+result2 <- 9 < 0
+result2
+
+
+result1 | result2
+
+result1 & result2
+
+
+
+```
+
+## Loops 
+
+- While Loop
+  -Not widely used in the programming languages like R
+
+```{r}
+
+
+
+# if the logical expression turns true then the body of the loop
+# will get executed
+# in order to stop the infinite loop type escape
+
+while(FALSE){
+ # body of the loop
+  print("Hello THere! This is rudraksh!")
+  
+}
+
+counter <- 1
+while (counter < 12){
+  print(counter)
+  counter <- counter + 1
+}
+
+counter <- 1
+while(counter <= 10){
+  print("Rudraksh is a Programmer")
+  counter <- counter + 1 
+}
+
+## using counter you can iterate with the loop
+
+```
+
+
+
+
+### Why all the lines are always copied to the cosole?
+### --> It can simply make your life easy you can type the code itself in the console
+
+
+## For Loop
+
+# vectors in R programming 
+
+### This is where we gonna encounter vectors 1:5 is basically a vector here
+
+### it's basically a vector of numbers in other programming languages we call it array
+
+
+
+```{r}
+# while loop
+counter <- 1
+while(counter <= 10){
+  print("Rudraksh is a Programmer")
+  counter <- counter + 1 
+}
+
+
+for(i in 1:5){
+  print("Hello R Programming!")
+}
+
+for(rudra in 1:10){
+  print("R")
+}
+ 
+
+1:5  
+
+
+```
+
+### If statements in R programming Language
+
+```{r}
+
+# rnorm function generates the random numbers
+
+# rm(ans)
+# x <- rnorm(1)
+if(x > 1){
+  ans <- "Greater than 1!"
+  print(ans)
+  
+}else{
+  # has no parentheses cuz it's default statement it doesn't require condition
+  answer <- "Less than 1"
+  print(answer)
+
+  # if(x>= -1){
+  #   ans <- "Between -1 and 1"
+  # }else{
+  #   ans <- "Less than 1"
+  # }
+
+  
+    
+}
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
