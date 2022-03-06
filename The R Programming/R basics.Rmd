@@ -4,13 +4,10 @@ output: html_notebook
 Aurthor: rudrakshkarpe
 ---
 
-### This is Designed by rudrakshkarpe
-*ctrl + shift+ enter* --> to run the entire code  
-*ctrl + shift+ c*  --> to comment in the r programming language
-*Ctrl+Alt+I* --> TO insert new chunk
-*ctrl + shift + k* --> to see the HTML preview 
+## Hello everyone. Here, I'll be covering *core programming concepts* for the R prgramming Language.
 
-### Types of Variables in R programming Langauge
+### You can follow the complete Notebook!!
+### Types of variables in R programming langauge
 ```{r}
 # interger
 
@@ -72,7 +69,7 @@ answer
 ```
 
 
-### operations on the character operator 
+### Operations on the character operator
 
 ```{r}
 greetings <- "Hello"
@@ -83,7 +80,7 @@ Message <- paste(greetings, name)
 Message
 ```
 
-### Logical Variables and operators
+### Logical variables and operators
 
 
 ```{r}
@@ -116,7 +113,7 @@ result1 & result2
 
 ```
 
-## Loops 
+## Loops in R programming   
 
 - While Loop
   -Not widely used in the programming languages like R
@@ -152,15 +149,9 @@ while(counter <= 10){
 ```
 
 
-
-
-### Why all the lines are always copied to the cosole?
-### --> It can simply make your life easy you can type the code itself in the console
-
-
 ## For Loop
 
-# vectors in R programming 
+## vectors in R programming 
 
 ### This is where we gonna encounter vectors 1:5 is basically a vector here
 
@@ -194,7 +185,6 @@ for(rudra in 1:10){
 ### If statements in R programming Language
 
 ```{r}
-
 # rnorm function generates the random numbers
 
 # rm(ans)
@@ -213,13 +203,11 @@ if(x > 1){
   # }else{
   #   ans <- "Less than 1"
   # }
-
-  
-    
-}
-
-
 ```
+
+
+### Why all the lines are always copied to the cosole?
+- It can simply make your life easy, you can type the code itself in the console using this utility.
 
 
 
