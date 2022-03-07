@@ -14,9 +14,9 @@ Aurthor: rudrakshkarpe
 ```{r}
 # interger
 
-x <- 2 
+x <- 2L
 
-# to make it interger keep it like 2L
+# to make it integer keep it like 2L
 
 typeof(x)
 
@@ -135,6 +135,9 @@ while(FALSE){
   
 }
 
+
+# Running an infinite loop may be the option here that can be later 
+# diversified 
 counter <- 1
 while (counter < 12){
   print(counter)
@@ -197,7 +200,7 @@ for(rudra in 1:10){
 # rnorm function generates the random numbers
 
 # rm(ans)
-# x <- rnorm(1)
+x <- rnorm()
 if(x > 1){
   ans <- "Greater than 1!"
   print(ans)
