@@ -12,6 +12,7 @@
 
 ### Happy Learnings :)
 
+### You may consider contributing to the repository
 
 | Experiment Name | Problem Satement | Solution | Status of Completion |
 | :-:| ------ | ------ | :-: |
