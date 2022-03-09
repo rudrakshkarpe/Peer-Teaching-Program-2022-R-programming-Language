@@ -13,7 +13,7 @@
 ### Happy Learnings :)
 
 ### You may consider contributing to the repository
-
+### *Feedbacks* - *rudraksh.karpe@gmail.com*
 | Experiment Name | Problem Satement | Solution | Status of Completion |
 | :-:| ------ | ------ | :-: |
 | 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display thevalues. Also, print the versioof the R installation.| [Solution]()| ✅ |
