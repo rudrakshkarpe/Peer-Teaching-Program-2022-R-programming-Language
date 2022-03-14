@@ -18,7 +18,16 @@ x <- 2
 typeof(x)
 
 # double
+```
 
+
+```{r}
+# Going to add new coment here! 
+
+```
+
+
+```{r}
 y <- 2.5  # decimal point 
 typeof(y)
 
