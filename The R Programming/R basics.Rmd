@@ -21,11 +21,7 @@ typeof(x)
 ```
 
 
-```{r}
-# Going to add new coment here! 
-
-```
-
+  
 
 ```{r}
 y <- 2.5  # decimal point 
@@ -152,9 +148,12 @@ while(counter <= 10){
   print("Rudraksh is a Programmer")
   counter <- counter + 1 
 }
-
+  
 ## using counter you can iterate with the loop
 
+```
+```{r}
+# New chunk added
 ```
 
 
