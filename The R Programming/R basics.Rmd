@@ -130,24 +130,24 @@ result1 & result2
 # if the logical expression turns true then the body of the loop
 # will get executed
 # in order to stop the infinite loop type escape
-
-while(FALSE){
- # body of the loop
-  print("Hello THere! This is rudraksh!")
-  
-}
+# 
+# while(FALSE){
+#  # body of the loop
+#   print("Hello THere! This is rudraksh!")
+#   
+# }
 
 counter <- 1
-while (counter < 12){
+while (counter <= 12){
   print(counter)
   counter <- counter + 1
 }
 
-counter <- 1
-while(counter <= 10){
-  print("Rudraksh is a Programmer")
-  counter <- counter + 1 
-}
+# counter <- 1
+# while(counter <= 10){
+#   print("Rudraksh is a Programmer")
+#   counter <- counter + 1 
+# }
   
 ## using counter you can iterate with the loop
 
@@ -169,23 +169,23 @@ while(counter <= 10){
 
 ```{r}
 # while loop
-counter <- 1
-while(counter <= 10){
-  print("Rudraksh is a Programmer")
-  counter <- counter + 1 
+# counter <- 1
+# while(counter <= 10){
+#   print("Rudraksh is a Programmer")
+#   counter <- counter + 1 
+# }
+
+
+for(i in 1:20){
+  print("Peer Teaching program 2022")
 }
 
+# for(rudra in 1:10){
+#   print("R")
+# }
+#  
 
-for(i in 1:5){
-  print("Hello R Programming!")
-}
-
-for(rudra in 1:10){
-  print("R")
-}
- 
-
-1:5  
+# 1:5  
 
 
 ```
@@ -193,24 +193,19 @@ for(rudra in 1:10){
 ### If statements in R programming Language
 
 ```{r}
-# rnorm function generates the random numbers
 
-# rm(ans)
-# x <- rnorm(1)
+
+rm(ans)
+x <- rnorm(1)
 if(x > 1){
   ans <- "Greater than 1!"
   print(ans)
   
 }else{
-  # has no parentheses cuz it's default statement it doesn't require condition
-  answer <- "Less than 1"
+  answer <- "Less than 1  ->> This is not expected!"
   print(answer)
-
-  # if(x>= -1){
-  #   ans <- "Between -1 and 1"
-  # }else{
-  #   ans <- "Less than 1"
-  # }
+}
+  
 ```
 
 
