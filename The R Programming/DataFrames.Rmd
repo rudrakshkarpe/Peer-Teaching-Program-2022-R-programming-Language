@@ -34,9 +34,35 @@ Test
 
 is.integer(Test)
 
+# let's make a character vector
+
+Test2 <- c('Rudraksh', 'programmer', 'Developer', 'Machine Learning')
+Test2
+
+is.character(Test2)
+
+seq() ## sequence --> very similar to the operator like ':'
+
+rep() # replicate function
+
+seq(1, 15)
+1:15
+
+z <- seq(1,15,4)
+z
 
 
+## last way of creating vector i.e. replicate
 
+rep(3,50)
+
+d <- rep(3,50)
+d
+
+e <-rep("Rudra", 10)
+
+j <- rep(d,10) # replicatign vector itself
+j
 ```
 
 
