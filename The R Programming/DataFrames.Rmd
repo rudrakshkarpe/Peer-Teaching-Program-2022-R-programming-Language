@@ -3,9 +3,52 @@ title: "Dataframes"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+## WHat is a vector in R programming?
+
+- Sequence of data element with the same basic type
+
+- it's basically like an array in C++ programming language
+
+- The name comes from the linear algebra as it's a statistical language comes from the mathematics background
+
+- we can even have some character vector the only condition would be to keep the data members of the same type.
+
+### secret of R programming language?
+
+- even a single no. is stored as a vector in R programming language
+
+- it's stored as vector of length one.
+
+```{r}
+
+
+MyFirstVector <- c(63, 13, 262, 16, 26, 14, 12)
+MyFirstVector
+is.numeric(MyFirstVector)
+is.integer(MyFirstVector) # turns about to be false as double is the default mode in the R programming language.
+is.double((MyFirstVector))
+
+
+Test <- c(44L,77L, 442L)
+Test
+
+is.integer(Test)
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
 
 ## R Markdown
 
