@@ -8,6 +8,7 @@
 
 # Hello everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
 
+- another lecture today on peer teaching :) Monday wibes
 
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
 
