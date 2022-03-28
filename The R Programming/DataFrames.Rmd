@@ -3,9 +3,7 @@ title: "Dataframes"
 output: html_document
 ---
 
-## WHat is a vector in R programming?
-
-- It might differ from the dinamic vecctor progamminc concepts that we have been useing since the long.
+## What is a vector in R programming?
 
 
 - Sequence of data element with the same basic type
@@ -23,51 +21,75 @@ output: html_document
 - it's stored as vector of length one.
 
 ```{r}
+# new_vector <-  c("Rudraksh", "Rohan", "Rajas", "Sarthak")
+# new_vector
+# is.numeric(new_vector)
 
 
-MyFirstVector <- c(63, 13, 262, 16, 26, 14, 12)
-MyFirstVector
-is.numeric(MyFirstVector)
-is.integer(MyFirstVector) # turns about to be false as double is the default mode in the R programming language.
-is.double((MyFirstVector))
+new <- c(1L,2L,3L,4L,5L)
+new
+is.integer(new)
+
+z <- seq(1L,10L)
+
+1:10
+
+replicate <- rep("END OF THE LECTURE", 3)
+replicate
+
+# z
+# is.integer(z)
+
+``` 
 
 
-Test <- c(44L,77L, 442L)
-Test
-
-is.integer(Test)
-
-# let's make a character vector
-
-Test2 <- c('Rudraksh', 'programmer', 'Developer', 'Machine Learning')
-Test2
-
-is.character(Test2)
-
-seq() ## sequence --> very similar to the operator like ':'
-
-rep() # replicate function
-
-seq(1, 15)
-1:15
-
-z <- seq(1,15,4)
-z
+```{r}
 
 
-## last way of creating vector i.e. replicate
-
-rep(3,50)
-
-d <- rep(3,50)
-d
-
-e <-rep("Rudra", 10)
-
-j <- rep(d,10) # replicatign vector itself
-
-#  to make it more precise we can add the functions here for the whole control stucture program with proper indentation
-j
+# # MyFirstVector <- c(63, 13, 262, 16, 26, 14, 12)
+# 
+# MyFirstVector
+# is.numeric(MyFirstVector)
+# is.integer(MyFirstVector) # turns about to be false as double is the default mode in the R programming language.
+# is.double((MyFirstVector))
+# 
+# 
+# Test <- c(44L,77L, 442L)
+# Test
+# 
+# is.integer(Test)
+# 
+# # let's make a character vector
+# 
+# Test2 <- c('Rudraksh', 'programmer', 'Developer', 'Machine Learning')
+# Test2
+# 
+# is.character(Test2)
+# 
+# seq() ## sequence --> very similar to the operator like ':'
+# 
+# rep() # replicate function
+# 
+# seq(1, 15)
+# 1:15
+# 
+# z <- seq(1,15,4)
+# z
+# 
+# 
+# ## last way of creating vector i.e. replicate
+# 
+# rep(3,50)
+# 
+# d <- rep(3,50)
+# d
+# 
+# e <-rep("Rudra", 10)
+# 
+# j <- rep(d,10) # replicatign vector itself
+# 
+# #  to make it more precise we can add the functions here for the whole control stucture program with proper indentation
+# j
 ```
 
 
