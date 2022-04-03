@@ -27,7 +27,7 @@
 | 7 |Write a R/Python program to create a bell curve of a random normal distribution.| [Solution]() | ✅ | [Image]() |
 | 8 | Write a R/Python program to compute the sum, mean, and product of a given vector element.| [Solution]() | ✅  | [Image]() |
 | 9| Write an R program to create a list of heterogeneous data, which include character, numeric and logical vectors. Print the lists| [Solution]() | ✅ | [Image]() |
-| 10| Write a R/Python program to read the .csv file and display the content. Write a R/Python program to create a Data Frames which contain details of 5 employees and display summary of the data.| [Solution]() | ✅ |
+| 10| Write a R/Python program to read the .csv file and display the content. Write a R/Python program to create a Data Frames which contain details of 5 employees and display summary of the data.| [Solution]() | ✅ | [Image]() |
 | 11| Create a histogram for each feature in the dataset to illustrate the feature distributions. Plot each histogram. Create a boxplot for each feature in the dataset. All of the boxplots should be combined into a single plot. Compare distributions and identify outliers.| [Solution]() | ✅ |
 
 ### @rudrakshkarpe
