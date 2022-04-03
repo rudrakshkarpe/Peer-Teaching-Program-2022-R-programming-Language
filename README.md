@@ -23,7 +23,7 @@
 | 3 | Write a R/Python program to create a list of random numbers in normal distribution and count occurrences of each value.| [Solution]() | ✅ |
 | 4 | Write a R/Python program to create a 5 x 4 matrix, 3 x 3 matrix with labels and fill the matrix by rows and 2 × 2 matrices with labels and fill the matrix by columns| [Solution]() | ✅ |
 | 5 | Write a R/Python program to find the maximum and the minimum value of a given vector.| [Solution]() | ✅  |
-| 7 | Write a R/Python program to create a simple bar plot of five subjects marks | [Solution]() | ✅ |
+| 6 | Write a R/Python program to create a simple bar plot of five subjects marks | [Solution]() | ✅ |
 | 8 |Write a R/Python program to create a bell curve of a random normal distribution.| [Solution]() | ✅ |
 | 9 | Write a R/Python program to compute the sum, mean, and product of a given vector element.| [Solution]() | ✅  |
 | 10| Write an R program to create a list of heterogeneous data, which include character, numeric and logical vectors. Print the lists| [Solution]() | ✅ |
