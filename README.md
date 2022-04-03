@@ -16,8 +16,8 @@
 ### You may consider contributing to the repository
 - going to update with the new R Notebooks for advanced and data cleaning related 
 ### *Feedbacks* - *rudraksh.karpe@gmail.com*
-| Experiment Name | Problem Satement | Solution | Status of Completion |
-| :-:| ------ | ------ | :-: |
+| Experiment Name | Problem Satement | Solution | Status of Completion | Image |
+| :-:| ------ | ------ | :-: | :-: |
 | 1 | a. Installation and Configuration of R/Python Studio. b. Write a R/Python program to take input from the user (name and age) and display thevalues. Also, print the versioof the R installation.| [Solution]()| ✅ |
 | 3 | Write a R/Python program to extract the first 10 English letters in lower case and the last 10 letters in upper case and extract letters between 22nd to 24th letters in upper case| [Solution]() | ✅ |
 | 4 | Write a R/Python program to create a list of random numbers in normal distribution and count occurrences of each value.| [Solution]() | ✅ |
