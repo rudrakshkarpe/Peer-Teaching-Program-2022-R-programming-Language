@@ -11,7 +11,7 @@
 
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
 
-### *Happy Learning :)*
+### *Happy Learning :)* I'd be more than happy to solve your doubts and learn along with you :))
 
 ### You may consider contributing to the repository
 - going to update with the new R Notebooks for advanced and data cleaning related 
