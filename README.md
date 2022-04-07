@@ -11,6 +11,8 @@
 
 ### I will be uploading all the assignments and resouces related to R Programming here. You can fork or clone the repository to keep yourself updated.
 
+- Designed with markdown
+
 ### *Happy Learning :)* I'd be more than happy to solve your doubts and learn along with you :))
 
 ### You may consider contributing to the repository
