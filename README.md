@@ -13,7 +13,6 @@
 
 - Designed with markdown
 
-### *Happy Learning :)* I'd be more than happy to solve your doubts and learn along with you :))
 
 ### You may consider contributing to the repository
 - going to update with the new R Notebooks for advanced and data cleaning related 
