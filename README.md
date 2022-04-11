@@ -30,4 +30,3 @@
 | 11| Create a histogram for each feature in the dataset to illustrate the feature distributions. Plot each histogram. Create a boxplot for each feature in the dataset. All of the boxplots should be combined into a single plot. Compare distributions and identify outliers.| [Solution]() | ✅ | [Image]() |
 
 ### @rudrakshkarpe
-- updating with the new  technical advising effects from the new prespective
