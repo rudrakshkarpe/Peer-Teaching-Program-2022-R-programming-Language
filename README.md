@@ -1,6 +1,5 @@
 <div align="center">
-- rudraksh
-	
+
  # Welcome to Reposiory for R Programming ✨
 
 </div>
