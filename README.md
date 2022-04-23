@@ -5,8 +5,7 @@
 </div>
 
 <!-- <img src="https://media0.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="1100" height="180" class="center"> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" > 
-<!-- width="1100" height="180" class="center"> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" width="400" height="500" class="center">
 
 # Hello everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
 
