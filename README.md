@@ -30,6 +30,6 @@
 | 10| Write a R/Python program to read the .csv file and display the content. Write a R/Python program to create a Data Frames which contain details of 5 employees and display summary of the data.| [Solution]() | ✅ | [Image]() |
 | 11| Create a histogram for each feature in the dataset to illustrate the feature distributions. Plot each histogram. Create a boxplot for each feature in the dataset. All of the boxplots should be combined into a single plot. Compare distributions and identify outliers.| [Solution]() | ✅ | [Image]() |
 
-- [ ] Need to update today with the final script 
+- [ ] Need to update today with the final script adding the new feature using the new technologies
 
 ### @rudrakshkarpe
