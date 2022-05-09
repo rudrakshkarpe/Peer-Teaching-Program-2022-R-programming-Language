@@ -13,12 +13,131 @@ plot(cars)
 
 Data Frames in the R in R programming language
 
-Data Frames in R Language are generic data objects of R which are used to store the tabular data. Data frames can also be interpreted as matrices where each column of a matrix can be of the different data types. DataFrame is made up of three principal components, the data, rows, and columns.
+Data Frames in R Language are generic data objects of R which are used to store the tabular data. Data frames can also be interpreted as matrices where each column of a matrix can be of the different data types. Data Frame is made up of three principal components, the data, rows, and columns.
+
+# two methods 
+
+Method 1 -> select the file manually 
+
+- using the File choose function file.choose()
+
+```{r}
+
+stats <- read.csv(file.choose())
+
+```
+
+
+
+Method 2 -> we set the working directory and we'll read the data ROM there
+
+working directory explanation
+
+```{r}
+getwd()
+
+
+# windows
+# setwd("C:\\Users\\rudra\\OneDrive\\Desktop\\")
+  
+# Mac
+  
+# setwd("/users/rudrakshkarpe/desktop/")
+```
+
+
+To remove the previously loaded data for the stats variable
+# rm(stats)
+
+
+# Exploring the data sets
+
+stats
+
+
+```{r}
+# to check the number of rows in the imported data set
+
+nrow(stats)
+```
+
+
+```{r}
+# to check the number of colums from the imported dataset
+
+ncol(stats)
+
+```
+
+
+```{r}
+# to get the top six rows
+
+head(stats)
+
+
+```
 
 
 
 ```{r}
 
+# bottom six rows 
+
+tail(stats, n = 10)
 
 
 ```
+
+```{r}
+# strings represnted in the numeric values ACSII
+
+str(stats)
+```
+
+
+# str() and runif() functions
+
+# str() --> R programming language it sands for structure
+
+# runif()  --> Randon variables distributed uniformly
+
+# 
+
+
+
+```{r}
+
+# summery of every single coloumn is some different way 
+
+summary(stats)
+```
+# Using the $ sign
+
+
+```{r}
+stats
+
+head(stats)
+
+stats[3,3]
+stats[3,"Deaths"]
+
+# stats["Recovered",3] you can't do this with the column 
+
+# $ sign is another way to access the data from the data frame
+# stats#column_name
+stats$Recovered
+# stats[, "Recovered"] similar operation with the opration with the dollar sign
+# stats$Recovered[2
+```
+
+# level function to get more form the coloumn extacted
+
+```{r}
+levels(stats$Recovered)
+
+
+```
+
+
