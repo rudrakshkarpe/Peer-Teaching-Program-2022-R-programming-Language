@@ -1,0 +1,24 @@
+---
+title: "Peer Teaching Program 2022"
+output: html_notebook
+---
+
+## Designed by rudrakshkarpe
+
+
+```{r}
+plot(cars)
+```
+
+
+Data Frames in the R in R programming language
+
+Data Frames in R Language are generic data objects of R which are used to store the tabular data. Data frames can also be interpreted as matrices where each column of a matrix can be of the different data types. DataFrame is made up of three principal components, the data, rows, and columns.
+
+
+
+```{r}
+
+
+
+```
