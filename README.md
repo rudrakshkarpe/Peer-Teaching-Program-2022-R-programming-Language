@@ -1,7 +1,6 @@
 <div align="center">
 
  # Welcome to Reposiory for R Programming ✨
-- program completed
 
 </div>
 
